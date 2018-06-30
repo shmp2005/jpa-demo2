@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d81602dd-6747-4cde-9ca7-9ab46cb48bb7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_9.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jpaer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jpaer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/config/DruidConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/config/DruidStatFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/config/DruidStatViewServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties.bk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml.bk" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config/DruidConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config/DruidStatFilter.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,92 +14,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="346">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DruidStatProperties.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid-spring-boot-starter/1.1.9/druid-spring-boot-starter-1.1.9.jar!/com/alibaba/druid/spring/boot/autoconfigure/properties/DruidStatProperties.class">
+      <file leaf-file-name="DruidWebStatFilterConfiguration.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid-spring-boot-starter/1.1.9/druid-spring-boot-starter-1.1.9-sources.jar!/com/alibaba/druid/spring/boot/autoconfigure/stat/DruidWebStatFilterConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="13" column="99" selection-start-line="13" selection-start-column="86" selection-end-line="13" selection-end-column="99" />
-              <folding>
-                <element signature="e#873#874#0" expanded="true" />
-                <element signature="e#916#917#0" expanded="true" />
-                <element signature="e#4565#4566#0" expanded="true" />
-                <element signature="e#4614#4615#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="17">
+              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DruidStatViewServletConfiguration.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid-spring-boot-starter/1.1.9/druid-spring-boot-starter-1.1.9.jar!/com/alibaba/druid/spring/boot/autoconfigure/stat/DruidStatViewServletConfiguration.class">
+      <file leaf-file-name="DruidStatViewServletConfiguration.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid-spring-boot-starter/1.1.9/druid-spring-boot-starter-1.1.9-sources.jar!/com/alibaba/druid/spring/boot/autoconfigure/stat/DruidStatViewServletConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="39" column="86" selection-start-line="39" selection-start-column="70" selection-end-line="39" selection-end-column="86" />
+            <state relative-caret-position="443">
+              <caret line="52" column="5" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="52" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DruidWebStatFilterConfiguration.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid-spring-boot-starter/1.1.9/druid-spring-boot-starter-1.1.9.jar!/com/alibaba/druid/spring/boot/autoconfigure/stat/DruidWebStatFilterConfiguration.class">
+      <file leaf-file-name="JpaerApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongba/jpaer/JpaerApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12">
-              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DruidDataSourceAutoConfigure.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid-spring-boot-starter/1.1.9/druid-spring-boot-starter-1.1.9.jar!/com/alibaba/druid/spring/boot/autoconfigure/DruidDataSourceAutoConfigure.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DruidDataSourceBuilder.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid-spring-boot-starter/1.1.9/druid-spring-boot-starter-1.1.9.jar!/com/alibaba/druid/spring/boot/autoconfigure/DruidDataSourceBuilder.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DruidDataSourceWrapper.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid-spring-boot-starter/1.1.9/druid-spring-boot-starter-1.1.9.jar!/com/alibaba/druid/spring/boot/autoconfigure/DruidDataSourceWrapper.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="31" column="58" selection-start-line="31" selection-start-column="58" selection-end-line="31" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.properties.bk" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties.bk">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="31" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="170">
-                <caret line="10" selection-start-line="10" selection-end-line="10" />
-              </first_editor>
-              <second_editor />
+            <state relative-caret-position="85">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -138,13 +73,14 @@
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/README.txt" />
         <option value="$PROJECT_DIR$/src/main/java/config/DruidStatViewServlet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zhongba/jpaer/JpaerApplication.java" />
         <option value="$PROJECT_DIR$/src/main/java/config/DruidConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/config/DruidStatFilter.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties.bk" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongba/jpaer/config/DruidStatViewServletConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongba/jpaer/JpaerApplication.java" />
       </list>
     </option>
   </component>
@@ -438,12 +374,12 @@
       <option name="presentableId" value="Default" />
       <updated>1530349727262</updated>
       <workItem from="1530349728658" duration="1648000" />
-      <workItem from="1530365448683" duration="4297000" />
+      <workItem from="1530365448683" duration="5533000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5945000" />
+    <option name="totallyTimeSpent" value="7181000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-10" y="23" width="1280" height="720" extended-state="6" />
@@ -468,7 +404,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.895" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.71166664" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28836834" />
@@ -543,13 +479,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongba/jpaer/JpaerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/config/DruidStatFilter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -577,13 +506,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="50" column="37" lean-forward="true" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -655,10 +577,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="170">
+            <caret line="10" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid-spring-boot-starter/1.1.9/druid-spring-boot-starter-1.1.9.jar!/com/alibaba/druid/spring/boot/autoconfigure/properties/DruidStatProperties.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="13" column="99" selection-start-line="13" selection-start-column="86" selection-end-line="13" selection-end-column="99" />
+        <state relative-caret-position="174">
+          <caret line="120" column="24" selection-start-line="120" selection-start-column="24" selection-end-line="120" selection-end-column="24" />
           <folding>
             <element signature="e#873#874#0" expanded="true" />
             <element signature="e#916#917#0" expanded="true" />
@@ -668,10 +600,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid-spring-boot-starter/1.1.9/druid-spring-boot-starter-1.1.9-sources.jar!/com/alibaba/druid/spring/boot/autoconfigure/properties/DruidStatProperties.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="190">
+          <caret line="53" column="24" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -682,13 +614,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="170">
-            <caret line="10" selection-start-line="10" selection-end-line="10" />
-          </first_editor>
-          <second_editor />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid-spring-boot-starter/1.1.9/druid-spring-boot-starter-1.1.9-sources.jar!/com/alibaba/druid/spring/boot/autoconfigure/DruidDataSourceAutoConfigure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="56" column="35" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid-spring-boot-starter/1.1.9/druid-spring-boot-starter-1.1.9-sources.jar!/com/alibaba/druid/spring/boot/autoconfigure/DruidDataSourceWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid-spring-boot-starter/1.1.9/druid-spring-boot-starter-1.1.9-sources.jar!/com/alibaba/druid/spring/boot/autoconfigure/DruidDataSourceBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="50" column="49" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid-spring-boot-starter/1.1.9/druid-spring-boot-starter-1.1.9-sources.jar!/com/alibaba/druid/spring/boot/autoconfigure/stat/DruidWebStatFilterConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid-spring-boot-starter/1.1.9/druid-spring-boot-starter-1.1.9-sources.jar!/com/alibaba/druid/spring/boot/autoconfigure/stat/DruidStatViewServletConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="52" column="5" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="52" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongba/jpaer/config/DruidStatViewServletConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongba/jpaer/JpaerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
